@@ -208,7 +208,7 @@ distributed training and inference in a few lines.
 </div>
 
 [ColossalChat](https://github.com/hpcaitech/ColossalAI/tree/main/applications/Chat): An open-source solution for cloning [ChatGPT](https://openai.com/blog/chatgpt/) with a complete RLHF pipeline.
-[[code]](https://github.com/hpcaitech/ColossalAI/tree/main/applications/Chat)
+[[code]](https://github.com/hpcaitech/ColossalAI/tree/main/applications/ColossalChat)
 [[blog]](https://medium.com/@yangyou_berkeley/colossalchat-an-open-source-solution-for-cloning-chatgpt-with-a-complete-rlhf-pipeline-5edf08fb538b)
 [[demo]](https://www.youtube.com/watch?v=HcTiHzApHm0)
 [[tutorial]](https://www.youtube.com/watch?v=-qFBZFmOJfg)
